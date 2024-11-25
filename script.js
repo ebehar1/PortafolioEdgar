@@ -18,9 +18,9 @@
  
 // 2. Mostrar proyectos dinámicamente
 const proyectos = [
-    { titulo: 'Proyecto 1', descripcion: 'Para este proyecto tuve que realizar un poster siguiendo una composicion, elegí sobre Stephen King ya que es un autor que admiro bastante.', imagen: 'Imagenes/Proyecto 1.png' },
-    { titulo: 'Proyecto 2', descripcion: 'En este proyecto realice un isometrico sobre el videojuego Hollow Knight, ya que es uno de mis juegos favoritos y el arte me gusta bastante.', imagen: 'Imagenes/Proyecto 2.png' },
-    { titulo: 'Proyecto 3', descripcion: 'Este dibujo lo realice por mi cuenta ya que el personaje de Kirby y los colores que use me agradaron bastante.', imagen: 'Imagenes/Proyecto 3.png' }
+    { titulo: 'Proyecto 1', descripcion: 'Para este proyecto tuve que realizar un poster siguiendo una composicion, elegí sobre Stephen King ya que es un autor que admiro bastante.', imagen: 'Proyecto 1.png' },
+    { titulo: 'Proyecto 2', descripcion: 'En este proyecto realice un isometrico sobre el videojuego Hollow Knight, ya que es uno de mis juegos favoritos y el arte me gusta bastante.', imagen: 'Proyecto 2.png' },
+    { titulo: 'Proyecto 3', descripcion: 'Este dibujo lo realice por mi cuenta ya que el personaje de Kirby y los colores que use me agradaron bastante.', imagen: 'Proyecto 3.png' }
 ];
 
 // Selecciona el contenedor de proyectos
